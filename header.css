@@ -1,0 +1,15 @@
+header h1, header h2{
+    font-family: "zen loop", cursive;
+    padding: 0;
+    margin-bottom:10px;
+    color:black;
+    text-shadow: green;
+}
+h1{
+    font-style: italic;
+    font-size: x-large;
+}
+div{
+    font-size: x-large;
+    font-family: cursive;
+}

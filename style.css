@@ -1,0 +1,30 @@
+body{
+    background-image: url("zen garden png.webp");
+    background-size: cover;
+    background-position: center;
+    font-family: "Calibri",sans-serif;
+
+}
+p{
+    font-size: larger;
+    font-style: italic;
+}
+.page-wrapper{
+    padding: 24px;
+    margin:30px;
+    background: white;
+}
+header h1, header h2{
+    font-family: "zen loop", cursive;
+    padding: 0;
+    margin-bottom:10px;
+    color: maroon;
+    position: center;
+    text-shadow: saddlebrown;
+    font-size: x-large;
+    font-style: italic;
+
+}
+h1, h2, h3, h4, h5, h6{
+    color: black;
+}
